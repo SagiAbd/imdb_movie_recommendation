@@ -1,5 +1,5 @@
 # IMDB Top 250 Movie Recommendation
-IMDB Top 250 Movie Recommendation is a movie recommendation system based on the top 250 IMDB movies. It uses Selenium for web scraping, TF-IDF for text vectorization, and cosine similarity for recommendation calculations.
+IMDB Top 250 Movie Recommendation is a summary based movie recommendation system over the top 250 IMDB movies. It uses Selenium for web scraping, TF-IDF for text vectorization, and cosine similarity for recommendation calculations.
 
 ## Key Features
 
